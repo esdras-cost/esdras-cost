@@ -15,4 +15,4 @@ Estou começando minha jornada no mundo da programação e aprendendo Python tod
 💡 Meu objetivo: Tornar-me um desenvolvedor e trabalhar com tecnologia!
 
 ---
-⭐ Se curtiu meu perfil, deixa uma estrela aí!
+⭐ Caso tenha gostado do meu perfil, deixa uma estrela e me siga para acompanhar minha jornada!
