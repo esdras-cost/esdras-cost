@@ -1,16 +1,18 @@
-## Hi there 👋
+# Seja bem vindo! 👋 Eu sou o Esdras
 
-<!--
-**esdras-cost/esdras-cost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Python | Futuro Dev
 
-Here are some ideas to get you started:
+Estou começando minha jornada no mundo da programação e aprendendo Python todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 O que eu estou aprendendo agora:
+- Python básico
+- Lógica de programação
+- Git e GitHub
+
+📂 Meus projetos:
+- Meus exercícios de Python
+
+💡 Meu objetivo: Tornar-me um desenvolvedor e trabalhar com tecnologia!
+
+---
+⭐ Se curtiu meu perfil, deixa uma estrela aí!
