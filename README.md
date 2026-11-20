@@ -1,18 +1,19 @@
-# Seja bem vindo! 👋 Eu sou o Esdras
+# Seja bem-vindo! 👋 Eu sou o Esdras
 
-### Estudante de Python | Futuro Dev
-
-Estou começando minha jornada no mundo da programação e aprendendo Python todos os dias.
-
-🚀 O que eu estou aprendendo agora:
-- Python básico
-- Lógica de programação
-- Git e GitHub
-
-📂 Meus projetos:
-- Meus exercícios de Python
-
-💡 Meu objetivo: Tornar-me um desenvolvedor e trabalhar com tecnologia!
+🎓 Cursando Análise e Desenvolvimento de Sistemas (ADS)
+🐍 Estudando Python | Foco em Lógica de Programação
+📍 Ceará - Brasil
 
 ---
-⭐ Caso tenha gostado do meu perfil, deixa uma estrela e me siga para acompanhar minha jornada!
+
+### 🚀 Sobre mim
+Sou estudante de ADS e estou começando minha jornada na programação.
+No momento estou aprendendo Python e criando meus primeiros projetos.
+
+### 📚 O que estou estudando agora
+- Python
+- Lógica de Programação
+- Git e GitHub
+
+### 🛠️ Meus Projetos
+- 📘 Tabuada em Python - Meu primeiro projeto!
